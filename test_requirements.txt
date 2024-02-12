@@ -1,6 +1,6 @@
 -r requirements.txt
 adlfs~=0.2.4
-bandit>=1.6.2, <2.0
+bandit>=1.7.7, <2.0
 behave==1.2.6
 biopython~=1.73
 black==v19.10.b0
