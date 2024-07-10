@@ -10,3 +10,4 @@ psutil==5.6.6
 requests~=2.20
 toposort~=1.5
 PyYAML>=4.2, <6.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
